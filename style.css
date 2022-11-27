@@ -1,0 +1,143 @@
+.banner-top{
+    background-image: url(img/hero-bg.jpg);
+    height:800px;
+    background-repeat: no-repeat;
+}
+.banner-top{
+    text-align: center;
+    color: cyan;
+}
+.banner-top h1{
+    display: inline-block;
+    margin: 100px;
+}
+.ron {
+    font-weight: 600;
+    color: #1e1e1e;
+    font-size: 1.1rem;
+  }
+  .work-box{
+    margin-bottom: 3rem;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    background-color: #fff;
+  }
+  .work-box:hover img {
+    transform: scale(1.2);
+  }
+  .work-content {
+    padding: 1rem 1% 1rem 2%;
+  }
+  .work-content .w-more {
+    color: #4e4e4e;
+    font-size: 0.8rem;
+  }
+  .work-content .w-more .w-ctegory {
+    color: #0078ff;
+  }
+  .work-content .w-like {
+    font-size: 2.5rem;
+    color: #0078ff;
+    float: right;
+  }
+  .work-content .w-like a {
+    color: #0078ff;
+  }
+  .work-content .w-like .num-like {
+    font-size: 0.7rem;
+  }
+  .title-box {
+    margin-bottom: 4rem;
+  }
+  .title-a {
+    text-decoration: none;
+    font-size: 3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .subtitle-a {
+    text-decoration: none;
+    color: #4e4e4e;
+  }
+  .line-mf {
+    width: 40px;
+    height: 5px;
+    background-color: #0078ff;
+    margin: 0 auto;
+  }
+  .service-box:hover .ico-circle {
+    transition: all 500ms ease;
+    color: #fff;
+    background-color: #0078ff;
+    box-shadow: 0 0 0 10px #cde1f8;
+  }
+  .service-box .s-title {
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0.4rem 0;
+  }
+  .service-box {
+    background-color: #fff;
+    padding: 2.5rem 1.3rem;
+    border-radius: 1rem;
+    margin-bottom: 3rem;
+    text-align: center;
+  }
+  .service-box .service-ico {
+    margin-bottom: 1rem;
+    color: #1e1e1e;
+  }
+  .bg-image {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+  }
+  .paralax-mf {
+    position: relative;
+    padding: 8rem 0;
+  }
+  .counter-box {
+    color: #fff;
+    text-align: center;
+  }
+  .counter-ico {
+    margin-bottom: 1rem;
+   
+  }
+  
+  .ico-circle  {
+    height: 30px;
+    width: 10px;
+    border: 1px solid wheat;
+    border-radius: 10px;
+    line-height: 2.5;
+    box-shadow: 0 0 0 10px #f8fbfc;
+  }
+  .counter-num .counter {
+    font-size: 3rem;
+    margin-bottom: 0;
+  }
+  .overlay-mf {
+    background-color: #0078ff;
+  }
+  .overlay-mf {
+    position: absolute;
+    top: 0;
+    left: 0px;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.7;
+  }
+  .tesmonial-box .author-text {
+    margin-top: 1rem;
+  }
+  
+  .testimonial-box .author-test img {
+    margin: 0 auto;
+  }
+  .card-footer img{
+    width: 30px;
+  }
